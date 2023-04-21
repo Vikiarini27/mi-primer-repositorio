@@ -1,2 +1,3 @@
-# mi-primer-repositorio
-prep course henry modulo 2
+# prepCourse Henry
+Este es un repositorio de prueba
+
